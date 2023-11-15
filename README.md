@@ -23,8 +23,5 @@
 <br/>
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valquiriatavares/)]
-
-<p align="left"><a href="#" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=valquiriat53gmail.com" alt="valquiriat53@gmail.com"/></a>
-  
+![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valquiriatavares/)
 [![GitHub](https://img.shields.io/github/followers/Valtavarescode?label=follow&style=social)](https://github.com/Valtavares)
