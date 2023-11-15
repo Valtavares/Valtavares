@@ -25,4 +25,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=in/valquíria-tavares)](in/valquíria-tavares)
 [![Gmail Badge](https://img.shields.io/badge/-valquiriat53@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/Valtavares)https://github.com/Valtavares)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([(https://github.com/Valtavares)](https://github.com/Valtavares)https://github.com/Valtavares)
