@@ -1,10 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=valquiriacode&color=006bed)
 
+Eu sou Valquíria Tavares
 <h3>Sobre mim</h3>
 
+- 💕 Goste de ficar em casa com a minha Família.
 - 😊 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na <a href="https://unifatecie.edu.br/">Unifatecie</a>.
-- 🌱 &nbsp; Participando da 18º Edição Programa Strater Full Stack Web na <a href="https://www.growdev.com.br/">Growdev</a>..
+- 🌱 &nbsp; Participando da 18º Edição Programa Strater Full Stack Web na <a href="https://www.growdev.com.br/">Growdev</a>.
+
 
 <h3>Minhas Skills</h3>
 
