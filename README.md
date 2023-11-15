@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=valquiriacode&color=006bed)
 
 <h3>Sobre mim</h3>
 
@@ -24,5 +24,5 @@
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/valquiria-tavares/)
-[![Gmail Badge](https://img.shields.io/badge/-GMAIL-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valquiriat53@gmail.com)]
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valquiriat53@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Valtavarescode?label=follow&style=social)](https://github.com/Valtavares)
