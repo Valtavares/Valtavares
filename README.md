@@ -3,7 +3,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando *Análise e Desenvolvimento de sistemas no <a href="https://unifatecie.edu.br/"></a>.
+- 🎓 Estudando *Análise e Desenvolvimento de sistemas no <a href="https://unifatecie.edu.br"</a>.
 - 🌱 &nbsp; Participando da 18º Edição Programa Strater Full Stack Web.
 
 <h3>Minhas Skills</h3>
