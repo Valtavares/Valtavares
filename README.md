@@ -3,7 +3,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas no <a href="https://unifatecie.edu.br/">Unifatecie</a>.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas na <a href="https://unifatecie.edu.br/">Unifatecie</a>.
 - 🌱 &nbsp; Participando da 18º Edição Programa Strater Full Stack Web.
 
 <h3>Minhas Skills</h3>
@@ -23,6 +23,8 @@
 <br/>
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valquiria-tavares//)](https://www.linkedin.com/in/valquiria-tavares/)
-[![Gmail Badge](https://img.shields.io/badge/-valquiriat53@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([(https://github.com/Valtavares)]
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/
+valquíria-tavares
+)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
