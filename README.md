@@ -23,5 +23,5 @@
 <br/>
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valquiriatavares/)]
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/valquiriatavares/)
 [![GitHub](https://img.shields.io/github/followers/Valtavarescode?label=follow&style=social)](https://github.com/Valtavares)
