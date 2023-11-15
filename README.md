@@ -11,7 +11,7 @@
 
 <h3>Minhas Skills</h3>
 
-**Aplicações e dados**
+**Aprendendo novas aplicações e dados**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
