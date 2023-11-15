@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=valquiriacode&color=006bed)
 
-Eu sou Valquíria Tavares
+<h3>Eu sou Valquíria Tavares</h3>
 <h3>Sobre mim</h3>
 
 - 💕 Goste de ficar em casa com a minha Família.
